@@ -30,6 +30,10 @@
 | Divertido	| “Tá com dúvida? Relaxa, isso aqui é moleza!”        |
 | Formal	  | “Conforme descrito na bula, recomenda-se cautela.”  |
 
+<p data-start="974" data-end="995" class="">✅ <strong data-start="976" data-end="995">Prompt prático:</strong></p>
+<blockquote data-start="996" data-end="1109">
+<p data-start="998" data-end="1109" class="">“Explique o que é a dipirona em linguagem didática, como se estivesse ensinando para um aluno do ensino médio.”</p>
+</blockquote>
 
 ### 🧑 Persona
 É quem está falando. A LLM assume uma identidade com voz própria. Exemplo:
@@ -41,6 +45,10 @@
 | Professor de biologia |	“Explique o que é um antibiótico como um professor faria.”          |
 | Suporte técnico       |	“Aja como um atendente de suporte que resolve problemas.”           |
 
+<p data-start="1765" data-end="1786" class="">✅ <strong data-start="1767" data-end="1786">Prompt prático:</strong></p>
+<blockquote data-start="1787" data-end="1868">
+<p data-start="1789" data-end="1868" class="">“Você é um farmacêutico atencioso. Responda com foco na segurança do paciente.”</p>
+</blockquote>
 
 ### ✍️ Estilo de escrita
 É o formato e ritmo do texto. Exemplos:
@@ -52,6 +60,11 @@
 | Técnico	       | Formal, preciso, jargões da área                                  |
 | Criativo	     | Leve, livre, usa metáforas, analogias                             |
 | Conversacional | Como uma conversa de WhatsApp, informal                           | 
+
+<p data-start="2410" data-end="2431" class="">✅ <strong data-start="2412" data-end="2431">Prompt prático:</strong></p>
+<blockquote data-start="2432" data-end="2513">
+<p data-start="2434" data-end="2513" class="">“Responda com tom acolhedor e tranquilo, como se fosse uma conversa cuidadosa.”</p>
+</blockquote>
 
 ---
 
