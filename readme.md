@@ -1,6 +1,6 @@
 # 📘 Engenharia de Prompt com Técnicas Avançadas
 
-1. [Tom, Persona e Estilo de Escrita](./tom-persona-e-estilo%20de%20escrita.md)
+1. [Tom, Persona e Estilo de Escrita](./tom-persona-escrita.md)
 2. [5 Passos para Simulações Eficazes](./5-passos-para-simulações-eficazes.md)
 3. [O que é um Playbook](./playbook.md)
 4. [Prompt Criativo vs Prompt Factual](./prompt-criativo-prompt-factual.md)
