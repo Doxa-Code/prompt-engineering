@@ -20,13 +20,36 @@
 
 ## 1. Tom, Persona e Estilo de Escrita
 
-| Elemento    | Descrição                        | Exemplo                         |
-| ----------- | -------------------------------- | ------------------------------- |
-| **Tom**     | Emoção e formalidade da resposta | Informal, Técnico, Acolhedor    |
-| **Persona** | Quem "fala" com o usuário        | Médico, Farmacêutico, Professor |
-| **Estilo**  | Estrutura, vocabulário e fluidez | Simples, Elaborado, Criativo    |
+### 🎤 Tom
+É o clima emocional da resposta. Isso afeta como o leitor vai se sentir.
 
-Ajustar esses elementos ajuda o modelo a responder com mais aderência ao público.
+
+Tom	Exemplo de frase
+Acolhedor	“Fique tranquilo, vou te explicar com calma.”
+Urgente	“Atenção: é essencial que você siga as instruções.”
+Divertido	“Tá com dúvida? Relaxa, isso aqui é moleza!”
+Formal	“Conforme descrito na bula, recomenda-se cautela.”
+
+### 🧑 Persona
+É quem está falando. A LLM assume uma identidade com voz própria. Exemplo:
+
+
+Persona	Exemplo de comando
+Médico	“Você é um clínico geral. Explique com responsabilidade.”
+Farmacêutico	“Você é um farmacêutico experiente, focado em orientar clientes.”
+Professor de biologia	“Explique o que é um antibiótico como um professor faria.”
+Suporte técnico	“Aja como um atendente de suporte que resolve problemas.”
+
+### ✍️ Estilo de escrita
+É o formato e ritmo do texto. Exemplos:
+
+
+Estilo	Características
+Jornalístico	Objetivo, direto, informativo ("o quê", "quem", "quando", "onde")
+Didático	Explicativo, passo a passo, com exemplos
+Técnico	Formal, preciso, jargões da área
+Criativo	Leve, livre, usa metáforas, analogias
+Conversacional	Como uma conversa de WhatsApp, informal
 
 ---
 
