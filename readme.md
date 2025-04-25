@@ -32,11 +32,41 @@ Ajustar esses elementos ajuda o modelo a responder com mais aderência ao públi
 
 ## 2. 5 Passos para Simulações Eficazes
 
-1. Defina o **contexto e o cenário**: onde a conversa ocorre, quem são os personagens.
-2. Estabeleça o **objetivo**: o que o usuário quer alcançar.
-3. Descreva o **papel da IA**: ela é um guia, consultor, personagem?
-4. Use **instruções claras e específicas**.
-5. Aplique **feedback e refine** a simulação conforme necessário.
+### 1. Defina o cenário (contexto)
+
+O que está acontecendo? Onde? Quando?
+
+A situação deve ser clara e contextualizada.
+
+Exemplo: "Você é um farmacêutico atendendo a um paciente em uma farmácia."
+
+### 2. Escolha a persona (quem está falando ou agindo)
+
+O papel ou identidade da IA.
+
+Exemplo de personas: Farmacêutico, professor, atendente de suporte, líder de equipe, etc.
+
+Exemplo: "Você é um farmacêutico com 5 anos de experiência e paciência para explicar com calma."
+
+### 3. Determine o objetivo da simulação
+
+O que a IA precisa fazer na simulação?
+
+Objetivos comuns: Responder perguntas, solucionar problemas, dar conselhos, ensinar algo, etc.
+
+Exemplo: "Explique ao paciente como tomar um remédio corretamente."
+
+### 4. Estabeleça parâmetros (restrições ou desafios)
+
+Pode ser um problema ou restrição no cenário que a IA deve superar.
+
+Exemplo: "O paciente tem dificuldade de leitura e não consegue entender instruções complexas."
+
+### 5. Adapte a linguagem e o tom
+
+Ajuste para que a IA fale de maneira apropriada para o público-alvo.
+
+Exemplo de tom: Amigável, formal, urgente, calmo, etc.
 
 ---
 
