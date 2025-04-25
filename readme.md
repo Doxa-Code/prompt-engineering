@@ -165,6 +165,13 @@ Técnica para forçar o modelo a **"pensar em voz alta"**, quebrando o raciocín
 - Criatividade: `Temperatura 0.8`, `Top-p 0.95`
 - Precisão: `Temperatura 0.2`, `Top-p 0.7`
 
+|Cenário | Temperatura | Top-k | Top-p | Resultado|
+| --- | --- | --- | --- | --- |
+|Atendimento técnico (RAG) | 0.0 | 0 | 1.0 | Totalmente confiável e estável|
+|Chat natural, amigável | 0.7 | 40 | 0.9 | Equilíbrio entre coerência e variação|
+|Escrita criativa (história) | 1.0 | 100 | 0.95 | Mais ousado e imaginativo|
+|Explicação didática com variações | 0.5 | 50 | 0.8 | Mais diverso, sem fugir do foco|
+
 ---
 
 ## 9. Janela de Contexto e Resumo
